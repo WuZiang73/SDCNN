@@ -1,4 +1,4 @@
-# SDCNN
+# Dynamic Snake Convolution Neural Network for Enhanced Image Super-Resolution
 ## Requirements (Pytorch)  
 #### Pytorch 1.13.1
 
